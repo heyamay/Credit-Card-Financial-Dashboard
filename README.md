@@ -38,7 +38,8 @@ AgeGroup = SWITCH(
     "unknown"
 )
 
-
+```
+```
 -- Income Group Classification
 IncomeGroup = SWITCH(
     TRUE(),
@@ -93,8 +94,8 @@ Previous_week_Reveneue = CALCULATE(
 - **Texas, New York, and California**: Contribute 68% of total transactions.
 
 ### Additional Metrics:
-- **Overall Activation Rate**: 57.5%
-- **Overall Delinquent Rate**: 6.06%
+- **Overall Activation Rate**: 57.5 %
+- **Overall Delinquent Rate**: 6.06 %
 
 ## Export & Share Project
 
