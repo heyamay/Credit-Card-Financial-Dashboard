@@ -1,5 +1,5 @@
 # Credit Card Financial Dashboard
-![Banner]([path/to/your/image.png](https://i.ytimg.com/vi/8tfcVnoEL0c/maxresdefault.jpg)
+![Banner](https://i.ytimg.com/vi/8tfcVnoEL0c/maxresdefault.jpg)
 
 ## Table of Contents
 
