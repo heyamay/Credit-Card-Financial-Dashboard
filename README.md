@@ -1,5 +1,9 @@
 # Credit Card Financial Dashboard
-![Banner](https://i.ytimg.com/vi/8tfcVnoEL0c/maxresdefault.jpg)
+### Customer Report
+![Customer Report](https://github.com/heyamay/Credit-Card-Financial-Dashboard/blob/main/Customer%20Report.jpg)
+
+### Transaction Report
+![Transaction Report](https://github.com/heyamay/Credit-Card-Financial-Dashboard/blob/main/Transaction%20Report.jpg)
 
 ## Table of Contents
 
